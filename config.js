@@ -11,7 +11,7 @@ global.lann = 'KaJRIjc7'
 /*============ NOMOR ============*/
 global.info = {
 	nomorbot: '6285943028298',
-	nomorown: '6281333154367',
+	nomorown: '6281398871823',
 	namebot: 'Bot Assisten',
 	nameown: 'zall',
 	channel: '120363241570452835@newsletter',
@@ -20,10 +20,10 @@ global.info = {
 
 /*============ OWNER ============*/
 global.owner = [
-['6281333154367', '𝚉𝚊𝚕𝚕 ×፝֟͜×', 'true']
+['6281398871823', '𝚉𝚊𝚕𝚕 ×፝֟͜×', 'true']
 ]
 global.mods = ['6281392128956']
-global.prems = ['6281392128956']
+global.prems = ['6281398871823']
 
 /*============== API ==============*/
 global.APIs = {
